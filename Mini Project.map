@@ -1,0 +1,120 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Fri Nov 27 20:54:45 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000428
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x00043f      
+            1070 out of 33048 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   AGAIN1   0x000242    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   AGAIN2   0x000246    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    CHECK   0x00002a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   CHECK1   0x000030    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   CHECK2   0x000038    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Comand   0x000178    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    DELAY   0x00023e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  EIGHT_8   0x0000a6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   FIVE_5   0x000082    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   FOUR_4   0x000076    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    First   0x0001fe    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   HASTAG   0x0000ca    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Keypad   0x00003e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                 Keypadin   0x0000d6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     MyID   0x000136    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   MyName   0x0000fc    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   NINE_9   0x0000b2    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    ONE_1   0x000052    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTA   0x0000dc    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTB   0x0000e4    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTC   0x0000ec    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTD   0x0000f4    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  SEVEN_7   0x00009a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW0   0x000194    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW1   0x0001a2    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW2   0x0001ac    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW3   0x0001b6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW4   0x0001be    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW5   0x0001c6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW6   0x0001ce    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW7   0x0001d6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW8   0x0001de    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW9   0x0001e6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+               SHOWHASTAG   0x0001f6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                 SHOWSTAR   0x0001ee    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SIX_6   0x00008e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     STAR   0x0000be    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Second   0x00021e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  THREE_3   0x00006a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    TWO_2   0x00005e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    WData   0x000186    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   ZERO_0   0x000046    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    start   0x00001a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    CHECK   0x00002a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   CHECK1   0x000030    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   CHECK2   0x000038    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Keypad   0x00003e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   ZERO_0   0x000046    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    ONE_1   0x000052    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    TWO_2   0x00005e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  THREE_3   0x00006a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   FOUR_4   0x000076    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   FIVE_5   0x000082    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SIX_6   0x00008e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  SEVEN_7   0x00009a    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                  EIGHT_8   0x0000a6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   NINE_9   0x0000b2    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     STAR   0x0000be    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   HASTAG   0x0000ca    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                 Keypadin   0x0000d6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTA   0x0000dc    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTB   0x0000e4    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTC   0x0000ec    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     OUTD   0x0000f4    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   MyName   0x0000fc    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                     MyID   0x000136    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Comand   0x000178    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    WData   0x000186    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW0   0x000194    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW1   0x0001a2    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW2   0x0001ac    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW3   0x0001b6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW4   0x0001be    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW5   0x0001c6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW6   0x0001ce    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW7   0x0001d6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW8   0x0001de    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    SHOW9   0x0001e6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                 SHOWSTAR   0x0001ee    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+               SHOWHASTAG   0x0001f6    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    First   0x0001fe    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   Second   0x00021e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                    DELAY   0x00023e    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   AGAIN1   0x000242    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+                   AGAIN2   0x000246    program     static C:\Users\ADMIN\OneDrive\Documents\Mini Project\Mini Project.asm
+
+
